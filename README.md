@@ -1,4 +1,6 @@
-Hoy presentamos la actividad final que hemos desarrollado como parte de nuestro proyecto. Hace unas semanas, nuestros profesores nos introdujeron al repositorio de drones en GitHub (https://lnkd.in/dan33s38), un espacio donde encontramos diversas aplicaciones programadas en Python orientadas a interactuar con los drones en el DronLab.
+UAS - COMECOCOS GAME
+
+Presentamos la actividad final que hemos desarrollado como parte de nuestro proyecto. Hace unas semanas, nuestros profesores nos introdujeron al repositorio de drones en GitHub (https://lnkd.in/dan33s38), un espacio donde encontramos diversas aplicaciones programadas en Python orientadas a interactuar con los drones en el DronLab.
 
 A partir de este repositorio, se nos propuso un reto: innovar en alguna de las modalidades de juego ya existentes o crear un nuevo juego, aprovechando el código y recursos disponibles de la manera más eficiente posible. El objetivo principal era aplicar los conocimientos adquiridos a lo largo del curso, potenciando tanto nuestra creatividad como nuestras habilidades en programación.
 
