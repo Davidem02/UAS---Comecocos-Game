@@ -20,6 +20,7 @@ geopy
 pyserial    
 paho mqtt version 1.6.1
 pygame
+(alomejor alguna mas)
 
 Funciona con la web app que hay en classpip en el directorio     
 
