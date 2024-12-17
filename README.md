@@ -8,19 +8,18 @@ En este contexto, surgió la idea de desarrollar un juego inspirado en el clási
 
 Se puede ver parte del desarrollo aqui: https://www.linkedin.com/groups/13097143/
 
-
 https://kinolien.github.io/gitzip/
 para descargar la libreria dronLink
 
-hay que instalar:
-pygame
-pymavlink     
-tkintermapview     
-PyAutoGUI     
-geopy     
-pyserial    
-paho mqtt version 1.6.1
-(alomejor alguna mas)
+hay que instalar:  
+pygame  
+pymavlink  
+tkintermapview  
+PyAutoGUI  
+geopy  
+pyserial  
+paho mqtt version 1.6.1  
+(alomejor alguna más)
 
 Funciona con la web app que hay en classpip en el directorio     
 
