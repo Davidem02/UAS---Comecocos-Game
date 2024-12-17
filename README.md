@@ -6,6 +6,7 @@ A partir de este repositorio, se nos propuso un reto: innovar en alguna de las m
 
 En este contexto, surgió la idea de desarrollar un juego inspirado en el clásico Comecocos, adaptado para integrarse con los drones y ofrecer una experiencia interactiva y dinámica.  Este lo llevamos a cabo a partir del juego de multidronBoardConMobile aunque también se han implementado funcionalidades de otros juegos. A continuación, presentamos, los retos que enfrentamos, las soluciones que hemos ido implementando y las mejoras o ampliaciones que todavía requiere el juego que hasta el momento solo está disponible en simulación.
 
+Se puede ver parte del desarrollo aqui: https://www.linkedin.com/groups/13097143/
 
 
 https://kinolien.github.io/gitzip/
