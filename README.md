@@ -12,14 +12,14 @@ Se puede ver parte del desarrollo aqui: https://www.linkedin.com/groups/13097143
 https://kinolien.github.io/gitzip/
 para descargar la libreria dronLink
 
-hay que instalar:    
+hay que instalar:
+pygame
 pymavlink     
 tkintermapview     
 PyAutoGUI     
 geopy     
 pyserial    
 paho mqtt version 1.6.1
-pygame
 (alomejor alguna mas)
 
 Funciona con la web app que hay en classpip en el directorio     
